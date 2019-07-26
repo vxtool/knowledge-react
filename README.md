@@ -1,7 +1,11 @@
 # React
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/knowledge-react.svg?style=flat-square)](https://github.com/descco-tools/knowledge-react/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-react.svg)](https://github.com/org-victorinox/knowledge-react/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/knowledge-react.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/knowledge-react.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-react.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-react/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/knowledge-react/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/knowledge-react/releases) for detailed changelog.
 
 ## License
 
